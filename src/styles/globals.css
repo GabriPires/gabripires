@@ -7,6 +7,8 @@ body {
   @apply h-[100svh];
   @apply bg-zinc-800;
   @apply text-zinc-100;
+  @apply max-w-4xl;
+  @apply mx-auto;
 }
 
 #__next {
